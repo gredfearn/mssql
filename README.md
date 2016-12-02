@@ -2,8 +2,8 @@
 MSSQL tester
 
 To run queries:
-## -Change config object to point to database.
+# 1) Change config object
 
-## -Insert a query
+# 2) Insert a query in hello-sql.js 
 
-## -Type 'npm run test' in terminal
+# 3) Type 'npm run test' in terminal
