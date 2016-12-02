@@ -1,11 +1,11 @@
 var sql = require('seriate');
 
 var config = {
-  "name": "Windhaven",
+  "name": "NAME OF ROUTE",
 	"server": "IP ADDRESS HERE",
 	"user": "USERNAME HERE",
 	"password": "PASSWORD HERE",
-	"database": "Windhaven"
+	"database": "DATABASE NAME"
 };
 
 sql.setDefault(config);
