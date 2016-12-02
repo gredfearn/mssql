@@ -2,9 +2,9 @@ var sql = require('seriate');
 
 var config = {
   "name": "Windhaven",
-	"server": "192.168.7.57",
-	"user": "Windhaven",
-	"password": "clutch7&",
+	"server": "IP ADDRESS HERE",
+	"user": "USERNAME HERE",
+	"password": "PASSWORD HERE",
 	"database": "Windhaven"
 };
 
